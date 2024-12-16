@@ -14,22 +14,22 @@ Key Features
 - Order Status Insights: Assessment of delays in order processing for operational improvement.
 
 Approach and Methodology
-Data Cleaning:
+Data Cleaning
 -Handled missing values and resolved inconsistencies in the raw data.
 -Standardized the dataset for analysis.
 
-Exploratory Data Analysis (EDA):
+Exploratory Data Analysis (EDA)
 - Performed trend analysis and segmentation to uncover key patterns.
 - Used Excel tools such as pivot tables and conditional formatting.
   
-Data Visualization:
-Created interactive dashboards showcasing:
+Data Visualization
+Created interactive dashboards showcasing
 -Monthly sales trends.
 -Gender and age group performance.
 -Regional contributions to sales.
 -Online vs offline channel efficiency.
 
-Insight Generation:
+Insight Generation
 - Extracted actionable insights to support business decision-making.
   
 Tools and Skills
