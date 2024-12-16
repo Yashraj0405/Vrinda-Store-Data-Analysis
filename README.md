@@ -13,7 +13,7 @@ Key Features
 - Channel Efficiency: Contribution analysis of online vs offline sales channels.
 - Order Status Insights: Assessment of delays in order processing for operational improvement.
 
-Approach and Methodology:
+Approach and Methodology
 
 Data Cleaning
 - Handled missing values and resolved inconsistencies in the raw data.
