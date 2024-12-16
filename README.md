@@ -13,10 +13,11 @@ Key Features
 - Channel Efficiency: Contribution analysis of online vs offline sales channels.
 - Order Status Insights: Assessment of delays in order processing for operational improvement.
 
-Approach and Methodology
+Approach and Methodology:
+
 Data Cleaning
--Handled missing values and resolved inconsistencies in the raw data.
--Standardized the dataset for analysis.
+- Handled missing values and resolved inconsistencies in the raw data.
+- Standardized the dataset for analysis.
 
 Exploratory Data Analysis (EDA)
 - Performed trend analysis and segmentation to uncover key patterns.
@@ -24,10 +25,10 @@ Exploratory Data Analysis (EDA)
   
 Data Visualization
 Created interactive dashboards showcasing
--Monthly sales trends.
--Gender and age group performance.
--Regional contributions to sales.
--Online vs offline channel efficiency.
+- Monthly sales trends.
+- Gender and age group performance.
+- Regional contributions to sales.
+- Online vs offline channel efficiency.
 
 Insight Generation
 - Extracted actionable insights to support business decision-making.
